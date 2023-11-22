@@ -1,0 +1,4 @@
+[Settings]
+GsmBand=0
+UmtsBand=0
+TechnologyPreference=12
